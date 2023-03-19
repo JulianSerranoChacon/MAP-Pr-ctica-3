@@ -6,6 +6,7 @@
         {
             int i = 0;
             Console.WriteLine("APUPIPIvkxjvlijxñzAPOOPAISAPIPAOSPAPOSOAPIPIIPOIPAP");
+            float patata;
         }
     }
 }
