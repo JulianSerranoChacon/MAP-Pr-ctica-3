@@ -1,3 +1,7 @@
 Tipo 3: Git no nos ha dejado pushear ya que el remoto contenía trabajo que no estaba localmente. Para solucionarlo hacemos un pull,
 pero que nos da conflicto pues hemos hecho cambios en el mismo fichero. Hacemos el mergeo manualmente y solucionamos el error,
 pusheando a main. Estamos intenado volver a la versión anterior de este fichero.
+
+6. Recuperando versiones anteriores:
+-Hemos tenido grandes problemas al efectuar el comando ya que, modificando el program.cs, intentabamos hacer el checkout en el .sln. 
+Cuando nos hemos dado cuenta de que había que proporcionar el camino hasta el archivo correcto, nos ha funcionado perfectamente.

@@ -8,7 +8,6 @@
             Console.WriteLine("APUPIPIvkxjvlijxñzAPOOPAISAPIPAOSPAPOSOAPIPIIPOIPAP");
             Console.WriteLine("Viva España");
             float patata;
-            //Esto claramente debe de desaparecerbabafFWXFA;
         }
     }
 }
