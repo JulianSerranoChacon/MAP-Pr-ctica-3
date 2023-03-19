@@ -1,3 +1,3 @@
 Tipo 3: Git no nos ha dejado pushear ya que el remoto contenía trabajo que no estaba localmente. Para solucionarlo hacemos un pull,
 pero que nos da conflicto pues hemos hecho cambios en el mismo fichero. Hacemos el mergeo manualmente y solucionamos el error,
-pusheando a main.
+pusheando a main. Estamos intenado volver a la versión anterior de este fichero.
